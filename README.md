@@ -1,0 +1,1 @@
+"# CarModelSdk_NetCore" 
